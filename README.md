@@ -9,7 +9,7 @@ Blog responsivo desenvolvido para o Desafio 02 da DNC.
 
 ## Links
 
-- [🔗 Deploy no Netlify](#)
+- [🔗 Deploy no Netlify](https://rid219254-desafio02.netlify.app)
 
 ## Instruções
 
